@@ -1,0 +1,2 @@
+C:\Users\ch.mueller\source\repos\AD to CSV\AD to CSV\bin\Release\net6.0\publish\win-x64\AD to CSV.pdb
+C:\Users\ch.mueller\source\repos\AD to CSV\AD to CSV\bin\Release\net6.0\publish\win-x64\AD to CSV.exe
