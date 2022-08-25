@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ch.mueller\\source\\repos\\AD to HENNry\\AD to CSV\\AD to HENNry.csproj": {}
+    "C:\\Users\\ch.mueller\\source\\repos\\AD to HENNry\\AD to HENNry\\AD to HENNry.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ch.mueller\\source\\repos\\AD to HENNry\\AD to CSV\\AD to HENNry.csproj": {
+    "C:\\Users\\ch.mueller\\source\\repos\\AD to HENNry\\AD to HENNry\\AD to HENNry.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ch.mueller\\source\\repos\\AD to HENNry\\AD to CSV\\AD to HENNry.csproj",
+        "projectUniqueName": "C:\\Users\\ch.mueller\\source\\repos\\AD to HENNry\\AD to HENNry\\AD to HENNry.csproj",
         "projectName": "AD to HENNry",
-        "projectPath": "C:\\Users\\ch.mueller\\source\\repos\\AD to HENNry\\AD to CSV\\AD to HENNry.csproj",
+        "projectPath": "C:\\Users\\ch.mueller\\source\\repos\\AD to HENNry\\AD to HENNry\\AD to HENNry.csproj",
         "packagesPath": "C:\\Users\\ch.mueller\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ch.mueller\\source\\repos\\AD to HENNry\\AD to CSV\\obj\\publish\\win-x64\\",
+        "outputPath": "C:\\Users\\ch.mueller\\source\\repos\\AD to HENNry\\AD to HENNry\\obj\\publish\\win-x64\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -324,10 +324,8 @@ internal class Program
             Console.WriteLine($"Error: {ex.Message}");
         }
         
-        Upload(ConfigToken, ConfigImportTag);
-        Thread.Sleep(5000);
-        Update(ConfigToken, ConfigMapping, ConfigDry);
-        Thread.Sleep(5000);
+        Upload(ConfigToken, ConfigImportTag).Wait();
+        Update(ConfigToken, ConfigMapping, ConfigDry).Wait();
     }
 
     public static async Task Upload(string ConfigToken, string ConfigImportTag)
