@@ -58,12 +58,12 @@ internal class Program
             INI.Write("Telefonnummer", "ipPhone", "Mapping aus AD");
             INI.Write("Mobiltelefonnummer", "mobile", "Mapping aus AD");
             INI.Write("Nutzername", "sAMAccountName", "Mapping aus AD");
-            INI.Write("Token", "NjJkN2NjMWU0ZDJkNTAxMzYwM2MwMGY3OilSeFo2XWRsNW1PJHZEN3lrMTZ3cHgsLHBXLl9bMXVpOzBfQ2Q4UUoqX3NYWiEza1puaF9jZlZSODRpSmVNSVQ=", "Upload");
+            INI.Write("Token", "", "Upload");
             INI.Write("Mapping", "externalID,profile-field:firstName,profile-field:lastName,profile-field:jobtitel,profile-field:department,profile-field:standort,eMail,profile-field:telefonnummer,profile-field:mobiltelefonnummer,userName", "Upload");
             INI.Write("ImportTag", "uft", "Upload");
             INI.Write("Dry", "true", "Upload");
 
-            Console.WriteLine("Configuration.ini wurde erstellt und muss angepasst werden!\nBei mehreren Angaben mit ; abtrennen.");
+            Console.WriteLine("Configuration.ini wurde erstellt und muss angepasst werden!\nToken muss gesetzt werden!\nBei mehreren Angaben mit ; abtrennen.");
 
             Console.ReadKey();
             Environment.Exit(0);
