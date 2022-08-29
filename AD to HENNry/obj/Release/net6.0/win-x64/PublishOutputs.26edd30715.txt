@@ -1,0 +1,2 @@
+C:\Users\Chris\Documents\GitHub\AD-to-HENNry\AD to HENNry\bin\Release\net6.0\publish\win-x64\AD to HENNry.pdb
+C:\Users\Chris\Documents\GitHub\AD-to-HENNry\AD to HENNry\bin\Release\net6.0\publish\win-x64\AD to HENNry.exe

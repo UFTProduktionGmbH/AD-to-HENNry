@@ -243,9 +243,8 @@ internal class Program
             Environment.Exit(0);
         }
         
+        //AD lesen
 
-
-        //alt
         try
         {
             List<PrincipalContext> lContext = new List<PrincipalContext>();
