@@ -5,10 +5,14 @@
       "Microsoft.Win32.SystemEvents/6.0.0": {
         "type": "package",
         "compile": {
-          "lib/net6.0/Microsoft.Win32.SystemEvents.dll": {}
+          "lib/net6.0/Microsoft.Win32.SystemEvents.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/net6.0/Microsoft.Win32.SystemEvents.dll": {}
+          "lib/net6.0/Microsoft.Win32.SystemEvents.dll": {
+            "related": ".xml"
+          }
         },
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
@@ -23,10 +27,14 @@
       "Newtonsoft.Json/13.0.1": {
         "type": "package",
         "compile": {
-          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
         }
       },
       "System.Configuration.ConfigurationManager/6.0.0": {
@@ -36,10 +44,14 @@
           "System.Security.Permissions": "6.0.0"
         },
         "compile": {
-          "lib/net6.0/System.Configuration.ConfigurationManager.dll": {}
+          "lib/net6.0/System.Configuration.ConfigurationManager.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/net6.0/System.Configuration.ConfigurationManager.dll": {}
+          "lib/net6.0/System.Configuration.ConfigurationManager.dll": {
+            "related": ".xml"
+          }
         },
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
@@ -52,10 +64,14 @@
           "System.Security.Permissions": "6.0.0"
         },
         "compile": {
-          "lib/net6.0/System.DirectoryServices.dll": {}
+          "lib/net6.0/System.DirectoryServices.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/net6.0/System.DirectoryServices.dll": {}
+          "lib/net6.0/System.DirectoryServices.dll": {
+            "related": ".xml"
+          }
         },
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
@@ -76,10 +92,14 @@
           "System.Security.AccessControl": "6.0.0"
         },
         "compile": {
-          "lib/net6.0/System.DirectoryServices.AccountManagement.dll": {}
+          "lib/net6.0/System.DirectoryServices.AccountManagement.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/net6.0/System.DirectoryServices.AccountManagement.dll": {}
+          "lib/net6.0/System.DirectoryServices.AccountManagement.dll": {
+            "related": ".xml"
+          }
         },
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
@@ -94,10 +114,14 @@
       "System.DirectoryServices.Protocols/6.0.0": {
         "type": "package",
         "compile": {
-          "lib/net6.0/System.DirectoryServices.Protocols.dll": {}
+          "lib/net6.0/System.DirectoryServices.Protocols.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/net6.0/System.DirectoryServices.Protocols.dll": {}
+          "lib/net6.0/System.DirectoryServices.Protocols.dll": {
+            "related": ".xml"
+          }
         },
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
@@ -123,10 +147,14 @@
           "Microsoft.Win32.SystemEvents": "6.0.0"
         },
         "compile": {
-          "lib/net6.0/System.Drawing.Common.dll": {}
+          "lib/net6.0/System.Drawing.Common.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/net6.0/System.Drawing.Common.dll": {}
+          "lib/net6.0/System.Drawing.Common.dll": {
+            "related": ".xml"
+          }
         },
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
@@ -145,10 +173,14 @@
       "System.Security.AccessControl/6.0.0": {
         "type": "package",
         "compile": {
-          "lib/net6.0/System.Security.AccessControl.dll": {}
+          "lib/net6.0/System.Security.AccessControl.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/net6.0/System.Security.AccessControl.dll": {}
+          "lib/net6.0/System.Security.AccessControl.dll": {
+            "related": ".xml"
+          }
         },
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
@@ -163,10 +195,14 @@
       "System.Security.Cryptography.ProtectedData/6.0.0": {
         "type": "package",
         "compile": {
-          "lib/net6.0/System.Security.Cryptography.ProtectedData.dll": {}
+          "lib/net6.0/System.Security.Cryptography.ProtectedData.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/net6.0/System.Security.Cryptography.ProtectedData.dll": {}
+          "lib/net6.0/System.Security.Cryptography.ProtectedData.dll": {
+            "related": ".xml"
+          }
         },
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
@@ -185,10 +221,14 @@
           "System.Windows.Extensions": "6.0.0"
         },
         "compile": {
-          "lib/net6.0/System.Security.Permissions.dll": {}
+          "lib/net6.0/System.Security.Permissions.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/net6.0/System.Security.Permissions.dll": {}
+          "lib/net6.0/System.Security.Permissions.dll": {
+            "related": ".xml"
+          }
         },
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
@@ -200,10 +240,14 @@
           "System.Drawing.Common": "6.0.0"
         },
         "compile": {
-          "lib/net6.0/System.Windows.Extensions.dll": {}
+          "lib/net6.0/System.Windows.Extensions.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/net6.0/System.Windows.Extensions.dll": {}
+          "lib/net6.0/System.Windows.Extensions.dll": {
+            "related": ".xml"
+          }
         },
         "runtimeTargets": {
           "runtimes/win/lib/net6.0/System.Windows.Extensions.dll": {
@@ -552,23 +596,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Chris\\.nuget\\packages\\": {},
+    "C:\\Users\\ch.mueller\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Chris\\Documents\\GitHub\\AD-to-HENNry\\AD to HENNry\\AD to HENNry.csproj",
+      "projectUniqueName": "C:\\Users\\ch.mueller\\source\\repos\\AD to HENNry\\AD to HENNry\\AD to HENNry.csproj",
       "projectName": "AD to HENNry",
-      "projectPath": "C:\\Users\\Chris\\Documents\\GitHub\\AD-to-HENNry\\AD to HENNry\\AD to HENNry.csproj",
-      "packagesPath": "C:\\Users\\Chris\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Chris\\Documents\\GitHub\\AD-to-HENNry\\AD to HENNry\\obj\\",
+      "projectPath": "C:\\Users\\ch.mueller\\source\\repos\\AD to HENNry\\AD to HENNry\\AD to HENNry.csproj",
+      "packagesPath": "C:\\Users\\ch.mueller\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ch.mueller\\source\\repos\\AD to HENNry\\AD to HENNry\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Chris\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ch.mueller\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -614,7 +658,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -623,7 +668,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
